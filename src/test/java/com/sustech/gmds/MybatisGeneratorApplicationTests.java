@@ -1,4 +1,4 @@
-package com.mybatis.generator;
+package com.sustech.gmds;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.mybatis.generator;
+package com.sustech.gmds;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
